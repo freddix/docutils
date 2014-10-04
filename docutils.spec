@@ -1,11 +1,11 @@
 Summary:	Documentation Utilities
 Name:		docutils
-Version:	0.10
+Version:	0.12
 Release:	1
 License:	Public Domain, BSD, GPL (see COPYING.txt)
 Group:		Development/Tools
 Source0:	http://downloads.sourceforge.net/docutils/%{name}-%{version}.tar.gz
-# Source0-md5:	d8d4660c08302c791b2d71a155a2f4bc
+# Source0-md5:	4622263b62c5c771c03502afa3157768
 URL:		http://docutils.sourceforge.net/
 BuildRequires:	python-devel
 BuildRequires:	rpm-pythonprov
